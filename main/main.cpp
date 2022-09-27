@@ -1,7 +1,7 @@
 #include <cstdlib>
 #include <iostream>
 
-#include "example.h"
+#include "funciones.h"
 
 using namespace std;
 using namespace foobar;

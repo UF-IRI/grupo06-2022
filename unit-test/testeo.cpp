@@ -1,6 +1,6 @@
 #include "gmock/gmock.h"
 
-#include "example.h"
+#include "funciones.h"
 
 using namespace testing;
 

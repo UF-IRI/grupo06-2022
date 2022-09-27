@@ -1,4 +1,4 @@
-#include "example.h"
+#include "funciones.h"
 #include "math.h"
 
 namespace foobar

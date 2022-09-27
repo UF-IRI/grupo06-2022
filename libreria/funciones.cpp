@@ -3,11 +3,6 @@
 
 namespace foobar
 {
-    int Example::getValue() const
-    {
-        return 99;
-    }
-    
     bool VerificarEdad(int edad)
     {
     //persona mas vieja de la historia, 122 años     

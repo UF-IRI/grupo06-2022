@@ -8,8 +8,6 @@ using namespace foobar;
 
 int main(int argc, char** argv)
 {
-    foobar::Example example{};
-    std::cout << "Example.getValue() => " << example.getValue() << std::endl;
 
     int edad;
     cout << "Ingrese una edad" << endl;

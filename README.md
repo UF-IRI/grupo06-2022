@@ -1,5 +1,5 @@
-# `Nombre Proyecto` - Grupo `XX`
-    Descripción del proyecto
+# `Unit-Test-TP` - Grupo `06`
+    Ejemplo simple de Unit test que nos sirve de práctica
 
 ### Integrantes
 - 
